@@ -1,3 +1,3 @@
-# Chatting
+# Joom
 
-Chatting application
+Zoom Clone coding with JS and NodeJS
